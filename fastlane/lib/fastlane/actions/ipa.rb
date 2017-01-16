@@ -1,5 +1,4 @@
 # rubocop:disable Lint/AssignmentInCondition
-# rubocop:disable Style/Next
 module Fastlane
   module Actions
     ARGS_MAP = {
@@ -236,4 +235,3 @@ module Fastlane
   end
 end
 # rubocop:enable Lint/AssignmentInCondition
-# rubocop:enable Style/Next
